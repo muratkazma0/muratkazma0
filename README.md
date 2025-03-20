@@ -1,62 +1,65 @@
-<h1 align="center">Hi 👋, I'm Murat</h1>
-<h3 align="center">A passionate web developer from Türkiye</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/murat-kazma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratkazma" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Murat Kazma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<p align="center">
+  <a href="https://github.com/muratkazma0"><img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&lines=Welcome+To+My+World++;Web+Developer+%7C+Ai&center=true&width=500&height=50"></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muratkazma0&label=Profile%20views&color=0eb419&style=flat" alt="muratkazma0" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 📩 Connect with me:
+  <a href="https://www.linkedin.com/in/murat-kazma/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:muratkazma.dev@gmail.com" target="_blank" rel="nofollow"><img alt="Murat's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+**🛠 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <p align="left">
-  <!-- TailwindCSS -->
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="TailwindCSS" width="40" height="40"/>
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,mysql,git,vscode,python,postman&perline=6"/>
   </a>
-  
-  <!-- Figma -->
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  
-  <!-- Javascript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="Javascript" width="40" height="40"/>
-  </a>
-  
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" width="40" height="40"/>
-  </a>
+</p>
+<br>
 
-  
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" width="40" height="40"/>
+📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/muratkazma0" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=muratkazma0&count_private=true&show_icons=true&theme=tokyonight">
   </a>
-  
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" alt="Django" width="40" height="40"/>
-  </a>
-  
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
+  <a href="https://github.com/muratkazma0?tab=repositories" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratkazma0&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </a>
 </p>
 
+---
+### Projects
+<table >
+    <tr>
+        <td>
+            <p>
+                <a href="https://github.com/muratkazma0/GitHub-Follower-Scraper" target="_blank">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muratkazma0&repo=GitHub-Follower-Scraper&layout=compact&show_icons=true&theme=tokyonight">
+                </a>
+            </p>
+        </td>
+        <td>
+            <p>
+                <a href="https://github.com/muratkazma0/NETWORK-ATTACK-SIMULATION-WANNACRY-RANSOMWARE-ATTACK" target="_blank">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muratkazma0&repo=NETWORK-ATTACK-SIMULATION-WANNACRY-RANSOMWARE-ATTACK&layout=compact&show_icons=true&theme=tokyonight">
+                </a>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>
+                <a href="https://github.com/muratkazma0/Python-REST-API-Project" target="_blank">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muratkazma0&repo=Python-REST-API-Project&layout=compact&show_icons=true&theme=tokyonight">
+                </a>
+            </p>
+        </td>
+        <td>
+            <p>
+                <a href="https://github.com/muratkazma0/Yabanci-Dil-Kurs-Yonetim-Sistemi" target="_blank">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muratkazma0&repo=Yabanci-Dil-Kurs-Yonetim-Sistemi&layout=compact&show_icons=true&theme=tokyonight">
+                </a>
+            </p>
+        </td>
+    </tr>
+</table>
