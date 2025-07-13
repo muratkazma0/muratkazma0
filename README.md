@@ -1,10 +1,31 @@
 <h1 align="center">Hi, I'm Murat Kazma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+
+---
+
+## 🚀 Pywall - AI-Powered Cybersecurity Software
+
+[https://pywall.com](https://pywall.com)
+
+Pywall is an advanced cybersecurity software I have developed using my own AI algorithms from scratch.
+
+- Performs real-time network traffic analysis,  
+- Detects malware and threats,  
+- Executes continuous scanning over WebSocket,  
+- Includes an automated penetration testing module that scans websites visited by users, specifically detecting vulnerabilities like **SQL Injection** and **XSS**,  
+- Pywall is protected as proprietary software with a patent application filed.
+
+This project showcases my expertise in cybersecurity and artificial intelligence.
+
+More details and updates can be found on [pywall.com](https://pywall.com).
+
+---
+
 <p align="center">
  <a href="https://github.com/muratkazma0">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&lines=Web+Developer&center=true&width=500&height=50">
 </a>
-
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratkazma0&label=Profile%20views&color=0eb419&style=flat" alt="muratkazma0" /> </p>
 
 ### 📩 Connect with me:
@@ -31,9 +52,17 @@
 </p>
 
 ---
+
 ### Projects
 <table >
     <tr>
+        <td>
+            <p>
+                <a href="https://github.com/muratkazma0/Pywall" target="_blank">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muratkazma0&repo=Pywall&layout=compact&show_icons=true&theme=tokyonight">
+                </a>
+            </p>
+        </td>
         <td>
             <p>
                 <a href="https://github.com/muratkazma0/GitHub-Follower-Scraper" target="_blank">
@@ -41,6 +70,8 @@
                 </a>
             </p>
         </td>
+    </tr>
+    <tr>
         <td>
             <p>
                 <a href="https://github.com/muratkazma0/NETWORK-ATTACK-SIMULATION-WANNACRY-RANSOMWARE-ATTACK" target="_blank">
@@ -48,19 +79,10 @@
                 </a>
             </p>
         </td>
-    </tr>
-    <tr>
         <td>
             <p>
                 <a href="https://github.com/muratkazma0/Python-REST-API-Project" target="_blank">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=muratkazma0&repo=Python-REST-API-Project&layout=compact&show_icons=true&theme=tokyonight">
-                </a>
-            </p>
-        </td>
-        <td>
-            <p>
-                <a href="https://github.com/muratkazma0/Yabanci-Dil-Kurs-Yonetim-Sistemi" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muratkazma0&repo=Yabanci-Dil-Kurs-Yonetim-Sistemi&layout=compact&show_icons=true&theme=tokyonight">
                 </a>
             </p>
         </td>
