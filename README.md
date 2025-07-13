@@ -35,8 +35,8 @@ More details and updates can be found on [pywall.com](https://pywall.com).
 **🛠 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <p align="left">
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,mysql,git,vscode,python,postman&perline=6"/>
-  </a>
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,mysql,git,python,postman,nextjs&perline=6"/>
+</a>
 </p>
 <br>
 
