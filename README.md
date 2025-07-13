@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Pywall - AI-Powered Cybersecurity Software
+## Pywall - AI-Powered Cybersecurity Software
 
 [https://pywall.com](https://pywall.com)
 
