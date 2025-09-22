@@ -1,25 +1,6 @@
 <h1 align="center">Hi, I'm Murat Kazma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 ---
-
-## Pywall - AI-Powered Cybersecurity Software
-
-[https://pywall.com](https://pywall.com)
-
-Pywall is an advanced cybersecurity software I have developed using my own AI algorithms from scratch.
-
-- Performs real-time network traffic analysis,  
-- Detects malware and threats,  
-- Executes continuous scanning over WebSocket,  
-- Includes an automated penetration testing module that scans websites visited by users, specifically detecting vulnerabilities like **SQL Injection** and **XSS**,  
-- Pywall is protected as proprietary software with a patent application filed.
-
-This project showcases my expertise in cybersecurity and artificial intelligence.
-
-More details and updates can be found on [pywall.com](https://pywall.com).
-
----
-
 <p align="center">
  <a href="https://github.com/muratkazma0">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&lines=Web+Developer&center=true&width=500&height=50">
