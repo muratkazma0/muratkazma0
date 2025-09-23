@@ -3,7 +3,7 @@
 ---
 <p align="center">
  <a href="https://github.com/muratkazma0">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&lines=Web+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&lines=Full-Stack+Developer&center=true&width=500&height=50">
 </a>
 </p>
 
