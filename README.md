@@ -16,7 +16,7 @@
 **🛠 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <p align="left">
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,mysql,git,python,postman,nextjs&perline=6"/>
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,mysql,git,postman,nextjs,docker&perline=6"/>
 </a>
 </p>
 <br>
